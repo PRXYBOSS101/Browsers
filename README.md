@@ -4,4 +4,6 @@
 
 [Hypertab Proxy](https://husux.xyz/)
 
-[Amazing Proxy](https://aurora-borealis.info)
+[Amazing Proxy](https://moonrising.me)
+
+[test](https://play.geforcenow.com/mall)
